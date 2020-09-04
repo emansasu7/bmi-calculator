@@ -1,8 +1,8 @@
 # bmi-calculator
 
-This is a simple project that uses NodeJS 
+This is a simple web application that uses NodeJS 
 
-This was my first time creating a backend app. They are many BMI calculators out there, but I just wanted to grasp some of the basics of #backenddevelopment. 😅
+This was my first time creating a backend app. They are many BMI calculators out there, but I just wanted to use this concept to grasp and solidify some of the knowledge I recently learnt and some of the basics of #backenddevelopment. 😅
 
 
 
